@@ -6,6 +6,11 @@ Tudo começou com a necessidade de otimizar o dia a dia do meu escritório. Merg
 
 Hoje, com uma base muito mais sólida, estou em plena **transição de carreira para me tornar um desenvolvedor**. Meu objetivo é aplicar meu conhecimento jurídico e minha paixão por tecnologia para criar soluções inovadoras que tornem o trabalho legal mais eficiente e inteligente.
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=broeringvictor&theme=github&dark_theme=github_dark&hide_border=true" alt="GitHub Streak de Victor Broering" style="height: 195px; margin: 0 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=broeringvictor&layout=compact&theme=github&dark_theme=github_dark&hide_border=true" alt="Top Linguagens de Victor Broering" style="height: 195px; margin: 0 10px;"/>
+</div>
+
 ---
 
 #### 🎯 **Transformando o Direito com Código**
@@ -35,5 +40,5 @@ Projetos que unem o mundo jurídico à inovação tecnológica, com foco em:
 * **Arquiteturas Sólidas:** Soluções bem estruturadas e escaláveis.
 * **Inovação Prática:** Ferramentas que resolvem desafios reais do setor jurídico.
 
-
 ---
+
