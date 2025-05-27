@@ -2,7 +2,7 @@
 
 Olá! Sou um **advogado famíliarista** atuante na **Broering Advogados** que descobriu uma paixão avassaladora pela **programação e automação**. 
 
-Tudo começou com a necessidade de otimizar o dia a dia do meu escritório. Mergulhei no **Python** e, rapidamente, comecei a desenvolver ferramentas que me ajudaram a automatizar tarefas repetitivas.  Hoje, com uma base muito mais sólida, estou em plena **transição de carreira para me tornar um desenvolvedor**.
+Mergulhei no **Python** e, rapidamente, comecei a desenvolver ferramentas que me ajudaram a automatizar tarefas repetitivas.  Hoje, com uma base muito mais sólida, estou em plena **transição de carreira para me tornar um desenvolvedor**.
 
 ---
 
