@@ -1,11 +1,5 @@
 # Bem-vindo ao meu GitHub! 
 
-Olá! Sou um **advogado famíliarista** atuante na **Broering Advogados** que descobriu uma paixão avassaladora pela **programação e automação**. 
-
-Mergulhei no **Python** e, rapidamente, comecei a desenvolver ferramentas que me ajudaram a automatizar tarefas repetitivas.  Hoje, com uma base muito mais sólida, estou em plena **transição de carreira para me tornar um desenvolvedor**.
-
----
-
 #### 🧱 **Minha Stack Tecnológica:**
 
 * **Backend:** .NET 9 (C#);
